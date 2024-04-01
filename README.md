@@ -1,3 +1,2 @@
-<img src="emulator.png" alt="Emulator" width="250" />
-<img src="home.png" alt="Home Screen" width="250" />
-
+<img src="emulator.png" alt="Emulator" height="500" />
+<img src="home.png" alt="Home Screen" height="500" />
